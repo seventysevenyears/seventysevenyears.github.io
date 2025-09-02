@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <!-- 하얀색 원형 배경 -->
+  <circle cx="8" cy="8" r="8" fill="white"/>
+  
+  <!-- 검정색 "77" 텍스트 -->
+  <text x="8" y="11" font-family="Arial, sans-serif" font-size="7" font-weight="bold" fill="#1A1A1A" text-anchor="middle">77</text>
+</svg>
